@@ -9,13 +9,13 @@ This RAG Chatbot project is developed using python flask, pinecone and openai.
 Clone the project
 
 ```bash
-  git clone url
+  git clone [url](https://github.com/smrussel/rag-chatbot-pinecone)
 ```
 
 Go to the project directory
 
 ```bash
-  cd project
+  cd rag-chatbot-pinecone)
 ```
 
 Install dependencies
